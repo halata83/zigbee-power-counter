@@ -26,4 +26,4 @@ a nastaví podle techto obrázku:
 celé zapojeni a nastaveni pocházi od:
 https://github.com/Mr-Groch/PTVO-Zigbee-CC2530-PCF8583-counter
 
-címž mu děkuji
+čímž mu děkuji
