@@ -11,6 +11,6 @@ schema 2:
 ![counter](https://github.com/halata83/zigbee-power-counter/assets/25054422/b564d098-5ca8-4df4-85a2-b89cebff659b)
 
 používám schema 1 a funguje to
-74HC132 sliží k uprave vstupniho signálu aby to mělo pekne hrany
+74HC132 slouží k uprave vstupniho signálu aby to mělo pekne hrany
 
 
