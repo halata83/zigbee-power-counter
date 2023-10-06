@@ -12,5 +12,18 @@ schema 2:
 
 používám schema 1 a funguje to
 74HC132 slouží k uprave vstupniho signálu aby to mělo pekne hrany
+Firmware se vytvoří pomocí ptvo.info configurable firmware sw: https://ptvo.info/download/ptvo-firmware-latest.zip
+
+a nastaví podle techto obrázku:
+ 
+
+![ptvo1](https://github.com/halata83/zigbee-power-counter/assets/25054422/ddb605e8-6f06-4547-b815-6740a7182af0)
 
 
+![ptvo2](https://github.com/halata83/zigbee-power-counter/assets/25054422/2dcf325b-fe0b-474e-b775-64f80c1721fd)
+
+
+celé zapojeni a nastaveni pocházi od:
+https://github.com/Mr-Groch/PTVO-Zigbee-CC2530-PCF8583-counter
+
+címž mu děkuji
